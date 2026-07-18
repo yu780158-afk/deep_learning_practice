@@ -1,1 +1,7 @@
-# deep_learning_practice
+# Deep Learning Practice
+
+深度学习（视频方向）学习记录
+
+## 计划
+- 2026.7-8：工具链搭建
+- 2026.9-10：深度学习入门
